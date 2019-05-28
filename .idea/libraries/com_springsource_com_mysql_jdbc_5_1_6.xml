@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.springsource.com.mysql.jdbc-5.1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../MyServer/src/MyServer/lib/com.springsource.com.mysql.jdbc-5.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpunit-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
